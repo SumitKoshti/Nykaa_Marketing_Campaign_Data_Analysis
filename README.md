@@ -1,4 +1,4 @@
-## Nykaa_Marketing_Campaign_Analysis
+## Nykaa Marketing Campaign Data Analysis
 🎯 Project Objective: The objective of this project is to Analyze Nykaa’s marketing campaign data to evaluate campaign, channel, and audience performance, optimize marketing spend, identify key revenue and ROI drivers, and uncover funnel and seasonal trends using SQL, Python, and Power BI to support data-driven marketing decisions.
 
 Key Objectives
@@ -18,7 +18,7 @@ Campaign Performance Report :
 [See Full Dashboard Here!](https://app.powerbi.com/view?r=eyJrIjoiNTJmM2ZmYWEtNWI3ZS00YmRiLWI1M2QtYzI4M2MzOWYwN2RkIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9)
 
 
-## 🔧 Project Process -->
+## 🔧 Project Process 
 
 
 🛠️ Tools used <br>
